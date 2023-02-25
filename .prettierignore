@@ -1,0 +1,5 @@
+.yarn
+.next
+dist 
+distclean
+node_modules
