@@ -17,22 +17,24 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-            Get started by editing&nbsp;
-            <code className={styles.code}>pages/index.tsx</code>
+            {/* Get started by editing&nbsp; */}
+            S2SM&#170; Rules set by Whitestone Corp.
+            {/* <code className={styles.code}>pages/index.tsx</code>&nbsp;    */}
+            {/* &#8225;Subject to Strict Management<br/> and Control with -SMAC- */}
           </p>
           <div>
             <a
-              href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+              href="https://dijitrend.com"
               target="_blank"
               rel="noopener noreferrer"
             >
               By{" "}
               <Image
-                src="/assets/images/vercel.svg"
+                src="/assets/images/dijitrendLogo.svg"
                 alt="Dijitrend Logo"
-                className={styles.vercelLogo}
-                width={110}
-                height={28}
+                className={styles.dijitrendLogo}
+                width={130}
+                height={38}
                 priority
               />
             </a>
@@ -42,20 +44,20 @@ export default function Home() {
         <div className={styles.center}>
           <Image
             className={styles.logo}
-            src="/next.svg"
+            src="/assets/images/proactivejs.svg"
             alt="Next.js Logo"
-            width={180}
-            height={37}
+            width={329}
+            height={39}
             priority
           />
 
 
           <div className={styles.thirteen}>
             <Image
-              src="/assets/images/thirteen.svg"
+              src="/assets/images/version-tag.svg"
               alt="13"
-              width={40}
-              height={31}
+              width={100}
+              height={50}
               priority
             />
           </div>
@@ -69,10 +71,10 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Docs <span>-&gt;</span>
+              Dokümanlar <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Find in-depth information about Next.js features and&nbsp;API.
+            &#45;Reaktif &#126;&#187; Proaktif Sistemi&#45; hakkında sıkça sorulan sorulara göz atabilisiniz. Fikir vermesi açısından en hızlı yöntemdir!&nbsp;
             </p>
           </a>
 
@@ -83,10 +85,10 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Learn <span>-&gt;</span>
+              Keşfet <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Learn about Next.js in an interactive course with&nbsp;quizzes!
+              Proaktif sisteme geçiş hakkında daha fazla bilgi almak için &nbsp;ziyaret edebilirsiniz!
             </p>
           </a>
 
@@ -97,10 +99,10 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Templates <span>-&gt;</span>
+              Şablonlar <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Discover and deploy boilerplate example Next.js&nbsp;projects.
+              "Reaktif Entegrasyon Sistem Teknik çevrim Erken Kategorizasyonu" -RESTçEK- Proaktif Şablonlarını Keşfedin! Proactive Integration System Technical Cycle Early Categorization PIST&nbsp;projects.
             </p>
           </a>
 
@@ -111,11 +113,10 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Deploy <span>-&gt;</span>
+              Dağıtım <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Instantly deploy your Next.js site to a shareable URL
-              with&nbsp;Vercel.
+              Reaktif Entegre Sistem Entegrasyonu Testleri -RESET- hakkında merak edilenler! Proaktif.js &nbsp;W-Core desteği kullanarak alt yapınıza URL tabanında paylaştırılabilir.
             </p>
           </a>
         </div>
